@@ -1,0 +1,3 @@
+﻿unittest1.obj : error LNK2005: "void __cdecl SplitString(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,struct info &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?SplitString@@YAXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AAUinfo@@0@Z) 已经在 test.obj 中定义
+    正在创建库 G:\ThoughtWorks\test\Debug\UnitTest1.lib 和对象 G:\ThoughtWorks\test\Debug\UnitTest1.exp
+G:\ThoughtWorks\test\Debug\UnitTest1.dll : fatal error LNK1169: 找到一个或多个多重定义的符号
